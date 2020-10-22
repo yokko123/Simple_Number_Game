@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="score">Score:</string>
+    <string name="number_game">Number Game</string>
+    <string name="instruction">TextView</string>
+</resources>
